@@ -3,7 +3,6 @@
 A Python script to discover active devices on your local network, identify open ports, and resolve hostnames. 
 Optimized for speed with concurrent processing and clean tabulated output.
 
-![CLI Example](https://via.placeholder.com/800x400.png?text=Sample+CLI+Output) *Example output*
 
 ## Features
 - 🚀 **ARP-based network scanning** for device discovery
